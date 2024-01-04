@@ -1,0 +1,96 @@
+body {
+    background-color: black;
+    color: gold;
+}
+
+#logo {
+    height: 100px;
+    width: 100px;
+
+}
+
+.fotos3 {
+    width: 500px;
+    height: 300px;
+    margin-left: 420px;
+}
+
+.fotos2 {
+    width: 263px;
+    height: 300px;
+    margin-left: 520px;
+}
+
+.fotos {
+    width: 263px;
+    height: 300px;
+}
+
+.jugador4x4 {
+    width: 150px;
+    height: 100px;
+}
+
+.plantilla {
+    text-transform: uppercase;
+    font-size: 50px;
+    list-style: none;
+}
+
+.contenedor {
+    border-top: solid red;
+    border-left: solid red;
+    border-right: solid gold;
+    border-bottom: solid gold;
+    border-radius: 5px;
+    margin: 20px 500px 20px 500px
+}
+
+.contenedor2 {
+    border-top: solid red;
+    border-left: solid red;
+    border-right: solid gold;
+    border-bottom: solid gold;
+    border-radius: 5px;
+    margin: 20px 500px 20px 500px
+}
+
+header {
+    background-color: red;
+    border-bottom: 1px solid white;
+    text-align: center;
+    padding: 10px 20px;
+}
+
+nav ul li {
+    list-style: none;
+    display: inline-block;
+    margin: 0px 10px;
+}
+
+a {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: white;
+}
+
+.boton {
+    margin-left: 175px;
+}
+
+.maps {
+    margin: 5px 150px 5px 400px;
+}
+
+.titulo {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
